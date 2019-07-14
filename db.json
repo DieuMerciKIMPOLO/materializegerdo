@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "aabbcccsgssgs",
+      "nom": "KIMPOLO NKOKOLO",
+      "prenom": "Dieu Merci",
+      "email": "dmkimp@gmail.com",
+      "motdepasse": "passer1234",
+      "status": "Etudiant"
+    },
+    {
+      "id": "gettststsjsjsksksk",
+      "nom": "Ngondo",
+      "prenom": "Gerdo",
+      "email": "gerdo@gmail.com",
+      "motdepasse": "passer123",
+      "status": "Administrateur"
+    }
+  ],
+  "listInscrits": [
+    {
+      "nom": "dmkimp@gmail.com",
+      "prenom": "Fass",
+      "adresse": "hhhhhshshsh",
+      "filiere": "hhahahahah",
+      "annee": "hhhhhhhhshshs",
+      "user": "aabbcccsgssgs",
+      "id": 1
+    },
+    {
+      "nom": "dmkimp@gmail.com",
+      "prenom": "Fass",
+      "adresse": "hhhhhshshsh",
+      "filiere": "hhahahahah",
+      "annee": "hhhhhhhhshshs",
+      "user": "aabbcccsgssgs",
+      "id": 2
+    },
+    {
+      "nom": "Mabiala",
+      "prenom": "Nkaya",
+      "adresse": "Fass",
+      "filiere": "Master",
+      "annee": "Premiere",
+      "user": "aabbcccsgssgs",
+      "id": 3
+    },
+    {
+      "nom": "Ngondo",
+      "prenom": "Gerdo",
+      "adresse": "Fass Dakar",
+      "filiere": "Programmation",
+      "annee": "Deuxieme",
+      "user": "gettststsjsjsksksk",
+      "id": 4
+    }
+  ]
+}
